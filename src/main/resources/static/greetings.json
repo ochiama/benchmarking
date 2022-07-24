@@ -1,0 +1,9 @@
+{
+  "MY": "Selamat pagi {user}",
+  "JP": "こんにちわ, {user}さん",
+  "IN": "नमस्ते, {user}",
+  "FR": "Bonjour!, {user}",
+  "IT": "Ciao!, {user}",
+  "CN": "你好 {user}",
+  "EN": "Hello, {user}"
+}
